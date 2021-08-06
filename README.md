@@ -1,5 +1,5 @@
-## Hi there!<br />
-###I am Cristian Giordani
+### Hi there!<br />
+### I am Cristian Giordani
 
 - 🔭  I’m currently working on Node.js
 - 🌱  I’m currently learning Next.js
