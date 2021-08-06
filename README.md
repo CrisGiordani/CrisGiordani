@@ -1,8 +1,8 @@
 ### Hi there, I am Cristian
 
-🔭 I’m currently working on Node.js
-🌱 I’m currently learning Next.js
-📫 How to reach me: cristiangiordani@gmail.com
+- 🔭 I’m currently working on Node.js
+- 🌱 I’m currently learning Next.js
+- 📫 How to reach me: cristiangiordani@gmail.com
 
 <div>
   <a href="https://github.com/CrisGiordani">
