@@ -1,13 +1,17 @@
 ## Hello, world! I am Cristian Giordani 
 
-<a href="https://linkedin.com/in/cristiangiordani" target=" _blank">
+<a href="https://linkedin.com/in/cristiangiordani" target="_blank">
   <img 
        align="left" alt="Linkedin" title="Linkedin" 
        height="80" width="55"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
+<br />
 
-<br /><br /><br /><br />
+>[linkedin.com/in/cristiangiordani](https://linkedin.com/in/cristiangiordani)
+>
+<br />
+<br />
 
 - 🔭  &nbsp; I’m currently working on Node.js
 - 🌱  &nbsp; I’m currently learning Next.js
