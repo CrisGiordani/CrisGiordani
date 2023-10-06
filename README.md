@@ -14,7 +14,7 @@
 <br />
 
 - 🔭  &nbsp; I’m currently working on Node.js
-- 🌱  &nbsp; I’m currently learning Next.js
+- 🌱  &nbsp; I’m currently learning Bun.js
 - 📫  &nbsp; How to reach me: cristiangiordani@gmail.com
 
 <br />
