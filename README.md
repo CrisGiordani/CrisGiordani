@@ -113,6 +113,3 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   
 </div>
-
-<br />
-
