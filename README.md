@@ -13,8 +13,8 @@
 <br />
 <br />
 
-- 🔭  &nbsp; I’m currently working on Node/TypeScript
-- 🌱  &nbsp; I’m currently learning Bun.js
+- 🔭  &nbsp; I’m currently working on TypeScript / Next.js
+- 🌱  &nbsp; I’m currently learning Domain Driven Design
 - 📫  &nbsp; How to reach me: cristiangiordani@gmail.com
 
 <br />
