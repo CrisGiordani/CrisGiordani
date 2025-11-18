@@ -26,30 +26,32 @@
        align="center" alt="Typescript" title="Typescript" 
        height="80" width="55" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
   <img 
        align="center" alt="NextJS" title="Next.js" 
        height="80" width="55"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   
-
-  
-
   <img 
        align="left" alt="NodeJS" title="Node.js" 
        height="80" width="30"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+       
   <img 
        align="left" alt="Javascript" title="Javascript" 
        height="80" width="30"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img 
+       
+  <img 
        align="center" alt="Unix" title="Unix" 
        height="80" width="30" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
+       
   <img 
        align="center" alt="VSCode" title="VSCode" 
        height="80" width="30" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+       
   <img 
        align="center" alt="React" title="React" 
        height="80" width="30" 
@@ -62,7 +64,7 @@
        align="center" alt="Docker" title="Docker" 
        height="80" width="30" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img 
+  <img 
        align="center" alt="Apple" title="Apple" 
        height="80" width="30" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
