@@ -33,9 +33,7 @@
   
 
   
-</div>
 
-<div style="display: inline">
   <img 
        align="left" alt="NodeJS" title="Node.js" 
        height="80" width="30"
